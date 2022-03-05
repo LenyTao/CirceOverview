@@ -1,0 +1,3 @@
+package ru.circe.examples.implicits.semiautomatic
+
+trait SemiAutomaticConverter extends SemiAutomaticEncoder with SemiAutomaticDecoder
